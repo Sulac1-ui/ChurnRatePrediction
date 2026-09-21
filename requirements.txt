@@ -4,4 +4,17 @@ seaborn
 matplotlib
 scikit-learn
 
+imbalanced-learn
+
+openai 
+GROQ
+seaborn
+xgboost
+catboost
+category_encoders
+plotly
+joblib
+pyyaml
+
+
 #-e .
